@@ -1,6 +1,6 @@
-# Terraform AWS—pƒTƒ“ƒvƒ‹
+# Terraform AWSç”¨ã‚µãƒ³ãƒ—ãƒ«
 
-AWSŠÂ‹«‚ðTerraform‚ÅŽ©“®\’z‚·‚éÛ‚ÌAŽ©•ª—pƒTƒ“ƒvƒ‹‚Å‚·B
+AWSç’°å¢ƒã‚’Terraformã§è‡ªå‹•æ§‹ç¯‰ã™ã‚‹ãŸã‚ã®ã€è‡ªåˆ†ç”¨ã‚µãƒ³ãƒ—ãƒ«ã§ã™ã€‚
 
-  - terraform.tfvars‚É‚ÄDBŠÇ—ŽÒƒ†[ƒU–¼AƒpƒXƒ[ƒhAEC2‚É“o˜^‚·‚éKeyPear‚ð‹LÚ‚µ‚Ä‚­‚¾‚³‚¢B
-  - EC2‚ÍUbuntu ServerARDS‚Ímysql5.7‚ð‚½‚Ä‚é“à—e‚Å‚·‚ªA‚»‚Ì‘¼ŠeƒŠƒ\[ƒX‚àŠÜ‚ß“K‹X•ÒW‚µ‚Ä‚­‚¾‚³‚¢B
+  - terraform.tfvarsã«ã¦DBç®¡ç†è€…ãƒ¦ãƒ¼ã‚¶åã€ãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰ã€EC2ã«ç™»éŒ²ã™ã‚‹KeyPearã‚’è¨˜è¼‰ã—ã¦ãã ã•ã„ã€‚
+  - EC2ã¯Ubuntu Serverã€RDSã¯mysql5.7ã‚’ãŸã¦ã‚‹å†…å®¹ã§ã™ãŒã€ãã®ä»–å„ãƒªã‚½ãƒ¼ã‚¹ã‚‚å«ã‚é©å®œç·¨é›†ã—ã¦ãã ã•ã„ã€‚
